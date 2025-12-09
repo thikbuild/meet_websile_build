@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Sarah Chen",
+    "position": "CEO",
+    "company": "TechFlow Solutions",
+    "links": {
+      "linkedin": "https://linkedin.com/in/sarahchen"
+    },
+    "photo": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=200&h=200&fit=crop",
+    "review": "Working with Websile was a game-changer for our business. They didn't just redesign our website; they transformed how we present ourselves to the world. The results speak for themselves - our leads have more than doubled since launch."
+  },
+  {
+    "name": "Marcus Johnson",
+    "position": "Founder",
+    "company": "Artisan Coffee Co.",
+    "links": {
+      "linkedin": "https://linkedin.com/in/marcusjohnson",
+      "twitter": "https://twitter.com/marcusj"
+    },
+    "photo": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&h=200&fit=crop",
+    "review": "The team at Websile understood our brand from day one. They created an online experience that truly captures the essence of what we do. Our customers love the new site, and our online sales have grown beyond our expectations."
+  },
+  {
+    "name": "Emily Rodriguez",
+    "position": "Marketing Director",
+    "company": "Urban Fitness Hub",
+    "links": {
+      "linkedin": "https://linkedin.com/in/emilyrodriguez"
+    },
+    "photo": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=200&h=200&fit=crop",
+    "review": "Our social media presence was nonexistent before Websile stepped in. Now we have a thriving community of fitness enthusiasts, and new members are discovering us every day. Their strategic approach to content has been incredible."
+  },
+  {
+    "name": "David Park",
+    "position": "Principal Architect",
+    "company": "GreenLeaf Architecture",
+    "links": {
+      "linkedin": "https://linkedin.com/in/davidpark",
+      "website": "https://greenleaf.example.com"
+    },
+    "photo": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=200&h=200&fit=crop",
+    "review": "As architects, we're particular about design - and Websile delivered beyond our expectations. The website they created is a work of art that perfectly showcases our projects. We've received more high-quality inquiries than ever before."
+  },
+  {
+    "name": "Lisa Thompson",
+    "position": "Co-founder",
+    "company": "FinanceFirst",
+    "links": {
+      "linkedin": "https://linkedin.com/in/lisathompson"
+    },
+    "photo": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=200&h=200&fit=crop",
+    "review": "The UI/UX redesign Websile did for our app was transformative. They made complex financial tools feel simple and even enjoyable to use. Our user satisfaction scores have never been higher, and our retention has dramatically improved."
+  }
+]

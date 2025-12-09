@@ -1,0 +1,176 @@
+[
+  {
+    "id": 1,
+    "name": "TechFlow Solutions",
+    "description": "A complete digital transformation for a leading SaaS company, including rebrand, website redesign, and marketing strategy.",
+    "img": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=600&fit=crop",
+    "slug": "techflow-solutions",
+    "keywords": ["SaaS", "Rebrand", "Web Design", "Marketing"],
+    "year": 2024,
+    "about_project": {
+      "industry": "Technology / SaaS",
+      "duration": "4 months",
+      "services": ["Web Design", "Branding", "Digital Marketing"]
+    },
+    "gallery": [
+      "https://images.unsplash.com/photo-1551434678-e076c223a692?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=800&h=600&fit=crop"
+    ],
+    "challenges": {
+      "problem": "TechFlow was struggling with an outdated brand identity and a website that failed to communicate their innovative solutions. Their conversion rates were low, and they were losing market share to more modern competitors.",
+      "solution": "We developed a comprehensive rebrand strategy, including a new visual identity that reflects their innovative approach. The new website features clear messaging, intuitive navigation, and strategic conversion points that guide visitors through the sales funnel."
+    },
+    "key_takeaways": [
+      "150% increase in qualified leads within first quarter",
+      "Brand recognition improved by 200% in target market",
+      "Website conversion rate increased from 1.2% to 4.8%",
+      "Average session duration increased by 65%"
+    ],
+    "project_link": "https://techflow.example.com"
+  },
+  {
+    "id": 2,
+    "name": "Artisan Coffee Co.",
+    "description": "E-commerce platform and brand identity for a specialty coffee roaster expanding their online presence.",
+    "img": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=800&h=600&fit=crop",
+    "slug": "artisan-coffee",
+    "keywords": ["E-commerce", "Branding", "Food & Beverage"],
+    "year": 2024,
+    "about_project": {
+      "industry": "Food & Beverage",
+      "duration": "3 months",
+      "services": ["E-commerce", "Branding", "Web Development"]
+    },
+    "gallery": [
+      "https://images.unsplash.com/photo-1447933601403-0c6688de566e?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1442512595331-e89e73853f31?w=800&h=600&fit=crop"
+    ],
+    "challenges": {
+      "problem": "Artisan Coffee had a loyal local following but struggled to translate their in-store experience to online sales. Their existing website was slow, difficult to navigate, and didn't capture the premium nature of their products.",
+      "solution": "We created a beautiful, fast-loading e-commerce platform with rich product photography, detailed origin stories for each coffee, and a subscription model. The brand identity was refreshed to feel premium while maintaining its artisanal roots."
+    },
+    "key_takeaways": [
+      "Online sales increased by 340% in six months",
+      "Subscription program grew to 2,000+ active members",
+      "Cart abandonment rate reduced by 45%",
+      "Mobile conversion rate improved by 180%"
+    ],
+    "project_link": "https://artisancoffee.example.com"
+  },
+  {
+    "id": 3,
+    "name": "Urban Fitness Hub",
+    "description": "Digital marketing campaign and social media strategy for a boutique fitness studio chain.",
+    "img": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=800&h=600&fit=crop",
+    "slug": "urban-fitness-hub",
+    "keywords": ["Social Media", "Digital Marketing", "Fitness"],
+    "year": 2023,
+    "about_project": {
+      "industry": "Health & Fitness",
+      "duration": "6 months (ongoing)",
+      "services": ["Social Media Marketing", "Digital Marketing", "Content Strategy"]
+    },
+    "gallery": [
+      "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=800&h=600&fit=crop"
+    ],
+    "challenges": {
+      "problem": "Urban Fitness Hub was opening new locations but struggling to build awareness and attract new members. Their social media presence was inconsistent, and they had no clear marketing strategy.",
+      "solution": "We developed a comprehensive social media strategy with engaging content, influencer partnerships, and targeted advertising. A content calendar ensures consistent posting, while paid campaigns drive membership sign-ups."
+    },
+    "key_takeaways": [
+      "Social media following grew from 5K to 45K in 6 months",
+      "Cost per lead reduced by 60%",
+      "New member sign-ups increased by 125%",
+      "Community engagement rate reached 8.5%"
+    ]
+  },
+  { 
+    "id": 4,
+    "name": "GreenLeaf Architecture",
+    "description": "Complete website redesign showcasing sustainable architecture projects with immersive visual experiences.",
+    "img": "https://images.unsplash.com/photo-1487958449943-2429e8be8625?w=800&h=600&fit=crop",
+    "slug": "greenleaf-architecture",
+    "keywords": ["Web Design", "Architecture", "Sustainability"],
+    "year": 2023,
+    "about_project": {
+      "industry": "Architecture & Design",
+      "duration": "2.5 months",
+      "services": ["Web Design", "Web Development", "SEO"]
+    },
+    "gallery": [
+      "https://images.unsplash.com/photo-1518005020951-eccb494ad742?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&h=600&fit=crop"
+    ],
+    "challenges": {
+      "problem": "GreenLeaf's portfolio of stunning sustainable buildings wasn't being properly showcased online. Their website felt dated, loaded slowly, and failed to convey their expertise in eco-friendly architecture.",
+      "solution": "We designed an immersive, visually-driven website that lets the work speak for itself. High-quality imagery, smooth transitions, and thoughtful micro-interactions create an experience that matches the quality of their architecture."
+    },
+    "key_takeaways": [
+      "Inquiries from high-value clients increased by 85%",
+      "Average time on site increased by 120%",
+      "Bounce rate decreased by 40%",
+      "Ranked #1 for 'sustainable architecture firm' in local SEO"
+    ],
+    "project_link": "https://greenleaf.example.com"
+  },
+  {
+    "id": 5,
+    "name": "FinanceFirst App",
+    "description": "UI/UX design and development for a personal finance management mobile application.",
+    "img": "https://images.unsplash.com/photo-1563986768494-4dee2763ff3f?w=800&h=600&fit=crop",
+    "slug": "financefirst-app",
+    "keywords": ["App Design", "FinTech", "UI/UX"],
+    "year": 2023,
+    "about_project": {
+      "industry": "Financial Technology",
+      "duration": "5 months",
+      "services": ["UI/UX Design", "Web Development", "Branding"]
+    },
+    "gallery": [
+      "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=600&fit=crop"
+    ],
+    "challenges": {
+      "problem": "FinanceFirst had a powerful budgeting tool but users found it confusing and overwhelming. User retention was low, and the app store reviews highlighted UX issues.",
+      "solution": "We completely redesigned the user experience with a focus on simplicity and clarity. The new design uses progressive disclosure to present complex features in digestible steps, with delightful animations that make managing money feel less stressful."
+    },
+    "key_takeaways": [
+      "User retention improved by 200%",
+      "App store rating increased from 3.2 to 4.8 stars",
+      "Daily active users grew by 150%",
+      "Feature adoption rate increased by 80%"
+    ],
+    "project_link": "https://financefirst.example.com"
+  },
+  {
+    "id": 6,
+    "name": "Nordic Home Interiors",
+    "description": "Brand identity and e-commerce platform for a Scandinavian-inspired furniture retailer.",
+    "img": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&h=600&fit=crop",
+    "slug": "nordic-home-interiors",
+    "keywords": ["E-commerce", "Branding", "Interior Design"],
+    "year": 2023,
+    "about_project": {
+      "industry": "Retail / Home & Living",
+      "duration": "4 months",
+      "services": ["Branding", "E-commerce", "Web Development"]
+    },
+    "gallery": [
+      "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&h=600&fit=crop"
+    ],
+    "challenges": {
+      "problem": "Nordic Home was a new entrant in a competitive market, struggling to differentiate from established players. They needed a brand identity and online presence that would resonate with design-conscious consumers.",
+      "solution": "We created a minimalist, elegant brand identity that embodies Scandinavian design principles. The e-commerce platform features beautiful product photography, AR room visualization, and a seamless checkout experience."
+    },
+    "key_takeaways": [
+      "Achieved profitability within 8 months of launch",
+      "Customer acquisition cost 35% below industry average",
+      "Average order value of $580",
+      "40% of customers return for repeat purchases"
+    ],
+    "project_link": "https://nordichome.example.com"
+  }
+]
